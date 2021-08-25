@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="birthday_name">Happy Birthday Shawty!</string>
+    <string name="birthday_image">birthday_image</string>
+    <string name="tapMeButton">TAP ME!</string>
+    <string name="sender">From Little Sis</string>
+</resources>
