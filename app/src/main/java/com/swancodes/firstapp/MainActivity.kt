@@ -16,8 +16,6 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        birthdayImageView.visibility = View.INVISIBLE
-
         binding.tapMeButton.setOnClickListener {
             binding.root.setBackgroundColor(Color.GREEN)
             birthdayImageView.visibility = View.VISIBLE
